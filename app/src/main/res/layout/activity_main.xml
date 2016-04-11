@@ -18,7 +18,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/hello_button"
         android:id="@+id/helloButton"
         android:layout_below="@+id/greetingTextView"
         android:layout_alignParentLeft="true"
@@ -28,7 +28,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="New Button"
+        android:text="@string/goodbye_button"
         android:id="@+id/goodbyeButtonClicked"
         android:layout_alignTop="@+id/helloButton"
         android:layout_alignParentRight="true"

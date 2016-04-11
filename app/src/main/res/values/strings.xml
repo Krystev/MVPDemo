@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MVP App</string>
+    <string name="goodbye_button">Goodbye Button</string>
+    <string name="hello_button">Hello Button</string>
 </resources>
